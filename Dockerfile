@@ -30,6 +30,6 @@ COPY src/ src/
 
 WORKDIR /app/src
 
-# ENTRYPOINT ["python3", "app.py"]
+ENTRYPOINT ["python3", "app.py"]
 
-# CMD ["--codido", "False"]
+CMD ["--codido", "False"]
