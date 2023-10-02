@@ -1,0 +1,10 @@
+node-qrcode-toolkit/node_modules
+node-qrcode-toolkit/build
+models
+*.log
+dist
+.output
+.nuxt
+.env
+.idea/
+.DS_Store
