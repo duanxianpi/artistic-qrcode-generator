@@ -1,8 +1,19 @@
 # Artistic Qr Code Generator
+![logo](https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/f6c7c05e-e40b-49f1-8363-a9f904b336f0)
 Artistic Qr Code Generator uses [Diffuser](https://github.com/huggingface/diffusers) to invoke the stable diffusion model and ControlNet. It allows you to do the generation from the command line instead of the GUI.
+![qrcode1](https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/87c0de45-83ce-4a6d-b13c-0f89f2eb5aac)
+![qrcode2](https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/4bc67f92-4d6e-452e-9c43-4b175375f744)
+
+![qrcode3](https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/44bf0098-06f1-41f3-a6a2-b9a5b8fbff8a)
+
 
 ## Try out
 [Try it in CODIDO](https://www.codido.co/marketplace/browse) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://https://colab.research.google.com/drive/1EHrv2QLe-RICMl1z72h5YBSEIKg7Fdje?usp=sharing)
+
+## How does it work?
+If you are interesting how the Stable Diffusion and Control Net work together, here is some greate articles to start
+- [Stable Diffusion QR Code 101](https://antfu.me/posts/ai-qrcode-101)
+- [Refining AI Generated QR Code](https://antfu.me/posts/ai-qrcode-refine)
 
 ## How to use?
 ### Build
