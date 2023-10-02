@@ -52,14 +52,12 @@ options:
     <td><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/87c0de45-83ce-4a6d-b13c-0f89f2eb5aac" width=256 height=256></td>
     <td><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/4bc67f92-4d6e-452e-9c43-4b175375f744" width=256 height=256></td>
     <td><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/44bf0098-06f1-41f3-a6a2-b9a5b8fbff8a" width=256 height=256></td>
+    <td><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/e15adbc2-e2e2-4eca-8786-776a483a7600" width=256 height=256></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/10f63c72-5e89-4040-aaee-c92cfa43281e" width=256 height=256></td>
+    <td><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/dbea5395-6473-494c-a2c7-38f7c232d4b6" width=256 height=256></td>
+    <td><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/0beae57c-b116-4217-a728-c70cbe99b01e" width=256 height=256></td>
+    <td><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/6f92db2f-9acd-4433-a4c4-3dd8a97d13da" width=256 height=256></td>
   </tr>
 </table>
-![image](https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/e15adbc2-e2e2-4eca-8786-776a483a7600)
-![image](https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/10f63c72-5e89-4040-aaee-c92cfa43281e)
-![image](https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/dbea5395-6473-494c-a2c7-38f7c232d4b6)
-![image](https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/0beae57c-b116-4217-a728-c70cbe99b01e)
-![image](https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/6f92db2f-9acd-4433-a4c4-3dd8a97d13da)
-
-
-
-
