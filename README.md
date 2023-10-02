@@ -1,4 +1,4 @@
-# Artistic Qr Code Docker
+# Artistic Qr Code Generator
 Generate your own artisitic Qr Code in 5 mins! Artistic Qr Code Docker allows you to generate artisitic Qr Code. It use [Diffuser](https://github.com/huggingface/diffusers) to invoke the stable diffusion model and ControlNet instead of the widely used [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui). This allows us to do the generation from the command line instead of the GUI.
 
 ## Try out
