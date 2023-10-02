@@ -1,4 +1,4 @@
-![logo](https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/f6c7c05e-e40b-49f1-8363-a9f904b336f0)
+![logo](https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/0a12f493-78c4-4aa6-b5b7-bd6c4ee7d57d)
 # Artistic Qr Code Generator
 Artistic Qr Code Generator uses [Diffuser](https://github.com/huggingface/diffusers) to invoke the stable diffusion model and ControlNet. It allows you to do the generation from the command line instead of the GUI.
 
@@ -49,15 +49,18 @@ options:
 ## Gallery
 <table>
   <tr>
-    <td><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/87c0de45-83ce-4a6d-b13c-0f89f2eb5aac" width=256 height=256></td>
-    <td><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/4bc67f92-4d6e-452e-9c43-4b175375f744" width=256 height=256></td>
-    <td><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/44bf0098-06f1-41f3-a6a2-b9a5b8fbff8a" width=256 height=256></td>
-    <td><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/e15adbc2-e2e2-4eca-8786-776a483a7600" width=256 height=256></td>
+    <td width="32%"><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/df526118-023c-4372-99f1-dbea1815547b"></td>
+    <td width="32%"><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/19fbecca-9547-4d3b-8e49-4837f2cbe818"></td>
+    <td width="32%"><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/a100a34f-e34c-44dd-a57b-3e3ed927850e"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/10f63c72-5e89-4040-aaee-c92cfa43281e" width=256 height=256></td>
-    <td><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/dbea5395-6473-494c-a2c7-38f7c232d4b6" width=256 height=256></td>
-    <td><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/0beae57c-b116-4217-a728-c70cbe99b01e" width=256 height=256></td>
-    <td><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/6f92db2f-9acd-4433-a4c4-3dd8a97d13da" width=256 height=256></td>
+    <td width="32%"><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/f7404540-9cd7-47d4-a444-8eae6dd5d696"></td>
+    <td width="32%"><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/baa4a1aa-2d8c-4e6d-9b5c-cf5afadb03a3"></td>
+    <td width="32%"><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/86d18b4e-c1e7-4086-b052-eb0975a54fbb"></td>
+  </tr>
+  <tr>
+    <td width="32%"><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/6507d016-1ebd-469c-b5a7-8d72010e31f7"></td>
+    <td width="32%"><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/8b316605-e944-42e1-9dd6-67881bce3341"></td>
+    <td width="32%"><img src="https://github.com/duanxianpi/artistic-qrcode-generator/assets/97914968/c7a87897-73f6-40a3-a628-99f30b793768"></td>
   </tr>
 </table>
