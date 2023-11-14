@@ -3,7 +3,7 @@
 Artistic Qr Code Generator uses [Diffuser](https://github.com/huggingface/diffusers) to invoke the stable diffusion model and ControlNet. It allows you to do the generation from the command line instead of the GUI.
 
 ## Try out
-[Try it in CODIDO](https://www.codido.co/marketplace/browse) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://https://colab.research.google.com/drive/1EHrv2QLe-RICMl1z72h5YBSEIKg7Fdje?usp=sharing)
+[Try it in CODIDO](https://www.codido.co/marketplace/browse) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EHrv2QLe-RICMl1z72h5YBSEIKg7Fdje?usp=sharing)
 
 ## How does it work?
 If you are interesting how the Stable Diffusion and Control Net work together, here is some greate articles to start
